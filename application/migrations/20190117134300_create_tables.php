@@ -9,7 +9,6 @@ class Migration_create_tables extends CI_Migration
                 array (
                     'type' => 'INT',
                     'null' => false,
-                    'auto_increment' => true,
                 ),
             'name' =>
                 array (
@@ -26,7 +25,6 @@ class Migration_create_tables extends CI_Migration
                 array (
                     'type' => 'INT',
                     'null' => false,
-                    'auto_increment' => true,
                 ),
             'name' =>
                 array (
@@ -54,7 +52,6 @@ class Migration_create_tables extends CI_Migration
                 array (
                     'type' => 'INT',
                     'null' => false,
-                    'auto_increment' => true,
                 ),
             'name' =>
                 array (
@@ -77,7 +74,6 @@ class Migration_create_tables extends CI_Migration
                 array (
                     'type' => 'INT',
                     'null' => false,
-                    'auto_increment' => true,
                 ),
             'course_no' =>
                 array (
